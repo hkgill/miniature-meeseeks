@@ -4,7 +4,7 @@ import "./globals.css";
 import { detectHost } from "./api";
 
 export const metadata: Metadata = {
-  title: "Verba",
+  title: "Mr Meeseeks",
   description: "The GoldenRAGtriever",
 };
 
