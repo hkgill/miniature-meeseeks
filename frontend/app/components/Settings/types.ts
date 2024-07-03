@@ -109,26 +109,26 @@ const BaseFonts: SelectSetting = {
 const BaseCustomization: CustomizationSettings = {
   title: "Customization",
   description:
-    "Customize the layout of your Verba by changing the title, subtitle, logo, and colors of the app.",
+    "Customize the layout of your Mr Meeseeks by changing the title, subtitle, logo, and colors of the app.",
   settings: {
-    title: { text: "Verba", type: "text", description: "Title of the Page" },
+    title: { text: "Mr Meeseeks", type: "text", description: "Title of the Page" },
     subtitle: {
       text: "The Golden RAGtriever",
       type: "text",
       description: "Subtitle of the Page",
     },
     intro_message: {
-      text: "Welcome to Verba, your open-source RAG application!",
+      text: "Welcome to Mr Meeseeks, your open-source RAG application!",
       type: "text",
       description: "Intro Message",
     },
     placeholder_message: {
-      text: "Ask Verba anything!",
+      text: "Ask Mr Meeseeks anything!",
       type: "text",
       description: "Input Placeholder",
     },
     image: {
-      src: "https://github.com/weaviate/Verba/blob/main/img/verba_icon.png?raw=true",
+      src: "https://github.com/weaviate/Mr Meeseeks/blob/main/img/Mr Meeseeks_icon.png?raw=true",
       type: "image",
       description: "Logo of the Page",
     },
@@ -191,7 +191,7 @@ const BaseCustomization: CustomizationSettings = {
 const CustomCustomization: CustomizationSettings = {
   title: "Customization",
   description:
-    "Customize the layout of your Verba by changing the title, subtitle, logo, and colors of the app.",
+    "Customize the layout of your Mr Meeseeks by changing the title, subtitle, logo, and colors of the app.",
   settings: {
     title: { text: "My RAG", type: "text", description: "Title of the Page" },
     subtitle: {
@@ -200,17 +200,17 @@ const CustomCustomization: CustomizationSettings = {
       description: "Subtitle of the Page",
     },
     intro_message: {
-      text: "Welcome to Verba, your open-source RAG application!",
+      text: "Welcome to Mr Meeseeks, your open-source RAG application!",
       type: "text",
       description: "Intro Message",
     },
     placeholder_message: {
-      text: "Ask Verba anything!",
+      text: "Ask Mr Meeseeks anything!",
       type: "text",
       description: "Input Placeholder",
     },
     image: {
-      src: "https://github.com/weaviate/Verba/blob/main/img/verba_icon.png?raw=true",
+      src: "https://github.com/weaviate/Mr Meeseeks/blob/main/img/Mr Meeseeks_icon.png?raw=true",
       type: "image",
       description: "Logo of the Page",
     },
@@ -273,16 +273,16 @@ const CustomCustomization: CustomizationSettings = {
 const DarkModeCustomization: CustomizationSettings = {
   title: "Customization",
   description:
-    "Customize the layout of your Verba by changing the title, subtitle, logo, and colors of the app.",
+    "Customize the layout of your Mr Meeseeks by changing the title, subtitle, logo, and colors of the app.",
   settings: {
-    title: { text: "Verba", type: "text", description: "Title of the Page" },
+    title: { text: "Mr Meeseeks", type: "text", description: "Title of the Page" },
     subtitle: {
       text: "The Dark RAGtriever",
       type: "text",
       description: "Subtitle of the Page",
     },
     intro_message: {
-      text: "Welcome to the dark mode version of Verba! Spooky, right?",
+      text: "Welcome to the dark mode version of Mr Meeseeks! Spooky, right?",
       type: "text",
       description: "Intro Message",
     },
@@ -292,7 +292,7 @@ const DarkModeCustomization: CustomizationSettings = {
       description: "Input Placeholder",
     },
     image: {
-      src: "https://github.com/weaviate/Verba/blob/main/img/verba_icon.png?raw=true",
+      src: "https://github.com/weaviate/Mr Meeseeks/blob/main/img/Mr Meeseeks_icon.png?raw=true",
       type: "image",
       description: "Logo of the Page",
     },
@@ -360,7 +360,7 @@ const DarkModeCustomization: CustomizationSettings = {
 const GoogleHackathonCustomization: CustomizationSettings = {
   title: "Customization",
   description:
-    "Customize the layout of your Verba by changing the title, subtitle, logo, and colors of the app.",
+    "Customize the layout of your Mr Meeseeks by changing the title, subtitle, logo, and colors of the app.",
   settings: {
     title: {
       text: "Prinses Maxima Centrum",
@@ -451,10 +451,10 @@ const GoogleHackathonCustomization: CustomizationSettings = {
 const WeaviateCustomization: CustomizationSettings = {
   title: "Customization",
   description:
-    "Customize the layout of your Verba by changing the title, subtitle, logo, and colors of the app.",
+    "Customize the layout of your Mr Meeseeks by changing the title, subtitle, logo, and colors of the app.",
   settings: {
     title: {
-      text: "Weaviate Verba",
+      text: "Weaviate Mr Meeseeks",
       type: "text",
       description: "Title of the Page",
     },
@@ -474,7 +474,7 @@ const WeaviateCustomization: CustomizationSettings = {
       description: "Input Placeholder",
     },
     image: {
-      src: "https://github.com/weaviate/Verba/blob/1.0.0/frontend/public/weaviate.png?raw=true",
+      src: "https://github.com/weaviate/Mr Meeseeks/blob/1.0.0/frontend/public/weaviate.png?raw=true",
       type: "image",
       description: "Logo of the Page",
     },
